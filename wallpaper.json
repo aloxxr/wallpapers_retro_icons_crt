@@ -1,124 +1,102 @@
-{
-  "Wallpapers": [
-    {
-      "name": "Inicial",
-      "author": "AloxxR",
-      "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/01-inicial.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/01-inicial.jpg"
-    },
-    {
-      "name": "Tele CRT Sola",
-      "author": "AloxxR",
-      "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/01-tele-crt-sola.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/01-tele-crt-sola.jpg"
-    },
-    {
-      "name": "Macro CRT",
-      "author": "AloxxR",
-      "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/02-macro-crt.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/02-macro-crt.jpg"
-    },
-    {
-      "name": "Rincón de CRTs",
-      "author": "AloxxR",
-      "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/02-rincon-de-crts.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/02-rincon-de-crts.jpg"
-    },
-    {
-      "name": "El Marco",
-      "author": "AloxxR",
-      "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/03-el-marco.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/03-el-marco.jpg"
-    },
-    {
-      "name": "La Cinta VHS",
-      "author": "AloxxR",
-      "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/03-la-cinta-vhs.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/03-la-cinta-vhs.jpg"
-    },
-    {
-      "name": "Estante de Cintas",
-      "author": "AloxxR",
-      "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/04-estante-de-cintas.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/04-estante-de-cintas.jpg"
-    },
-    {
-      "name": "Tracking en los Márgenes",
-      "author": "AloxxR",
-      "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/04-tracking-en-los-margenes.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/04-tracking-en-los-margenes.jpg"
-    },
-    {
-      "name": "El Control",
-      "author": "AloxxR",
-      "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/05-el-control.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/05-el-control.jpg"
-    },
-    {
-      "name": "Resplandor desde Abajo",
-      "author": "AloxxR",
-      "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/05-resplandor-desde-abajo.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/05-resplandor-desde-abajo.jpg"
-    },
-    {
-      "name": "Estática Tenue",
-      "author": "AloxxR",
-      "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/06-estatica-tenue.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/06-estatica-tenue.jpg"
-    },
-    {
-      "name": "Grano de Película",
-      "author": "AloxxR",
-      "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/07-grano-de-pelicula.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/07-grano-de-pelicula.jpg"
-    },
-    {
-      "name": "Repisa de CDs",
-      "author": "AloxxR",
-      "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/07-repisa-de-cds.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/07-repisa-de-cds.jpg"
-    },
-    {
-      "name": "Moiré CRT",
-      "author": "AloxxR",
-      "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/08-moire-crt.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/08-moire-crt.jpg"
-    },
-    {
-      "name": "PVM Genérica",
-      "author": "AloxxR",
-      "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/09-pvm-generica.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/09-pvm-generica.jpg"
-    },
-    {
-      "name": "Rejilla Inferior",
-      "author": "AloxxR",
-      "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/09-rejilla-inferior.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/09-rejilla-inferior.jpg"
-    },
-    {
-      "name": "La Línea al Apagar",
-      "author": "AloxxR",
-      "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/10-la-linea-al-apagar.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/10-la-linea-al-apagar.jpg"
-    },
-    {
-      "name": "Repisa de DVDs",
-      "author": "AloxxR",
-      "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/10-repisa-de-dvds.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/10-repisa-de-dvds.jpg"
-    },
-    {
-      "name": "Píxeles Dispersos",
-      "author": "AloxxR",
-      "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/11-pixeles-dispersos.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/11-pixeles-dispersos.jpg"
-    },
-    {
-      "name": "Esquinas de Visor",
-      "author": "AloxxR",
-      "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/12-esquinas-de-visor.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/refs/heads/main/12-esquinas-de-visor.jpg"
-    }
-  ]
-}
+[
+  {
+    "name": "Inicial",
+    "author": "AloxxR",
+    "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/main/01-inicial.jpg"
+  },
+  {
+    "name": "Tele CRT Sola",
+    "author": "AloxxR",
+    "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/main/01-tele-crt-sola.jpg"
+  },
+  {
+    "name": "Macro CRT",
+    "author": "AloxxR",
+    "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/main/02-macro-crt.jpg"
+  },
+  {
+    "name": "Rincón de CRTs",
+    "author": "AloxxR",
+    "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/main/02-rincon-de-crts.jpg"
+  },
+  {
+    "name": "El Marco",
+    "author": "AloxxR",
+    "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/main/03-el-marco.jpg"
+  },
+  {
+    "name": "La Cinta VHS",
+    "author": "AloxxR",
+    "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/main/03-la-cinta-vhs.jpg"
+  },
+  {
+    "name": "Estante de Cintas",
+    "author": "AloxxR",
+    "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/main/04-estante-de-cintas.jpg"
+  },
+  {
+    "name": "Tracking en los Márgenes",
+    "author": "AloxxR",
+    "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/main/04-tracking-en-los-margenes.jpg"
+  },
+  {
+    "name": "El Control",
+    "author": "AloxxR",
+    "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/main/05-el-control.jpg"
+  },
+  {
+    "name": "Resplandor desde Abajo",
+    "author": "AloxxR",
+    "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/main/05-resplandor-desde-abajo.jpg"
+  },
+  {
+    "name": "Estática Tenue",
+    "author": "AloxxR",
+    "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/main/06-estatica-tenue.jpg"
+  },
+  {
+    "name": "Grano de Película",
+    "author": "AloxxR",
+    "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/main/07-grano-de-pelicula.jpg"
+  },
+  {
+    "name": "Repisa de CDs",
+    "author": "AloxxR",
+    "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/main/07-repisa-de-cds.jpg"
+  },
+  {
+    "name": "Moiré CRT",
+    "author": "AloxxR",
+    "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/main/08-moire-crt.jpg"
+  },
+  {
+    "name": "PVM Genérica",
+    "author": "AloxxR",
+    "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/main/09-pvm-generica.jpg"
+  },
+  {
+    "name": "Rejilla Inferior",
+    "author": "AloxxR",
+    "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/main/09-rejilla-inferior.jpg"
+  },
+  {
+    "name": "La Línea al Apagar",
+    "author": "AloxxR",
+    "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/main/10-la-linea-al-apagar.jpg"
+  },
+  {
+    "name": "Repisa de DVDs",
+    "author": "AloxxR",
+    "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/main/10-repisa-de-dvds.jpg"
+  },
+  {
+    "name": "Píxeles Dispersos",
+    "author": "AloxxR",
+    "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/main/11-pixeles-dispersos.jpg"
+  },
+  {
+    "name": "Esquinas de Visor",
+    "author": "AloxxR",
+    "url": "https://raw.githubusercontent.com/aloxxr/wallpapers_retro_icons_crt/main/12-esquinas-de-visor.jpg"
+  }
+]
